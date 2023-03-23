@@ -49,6 +49,10 @@
     padding: 0;
   }
 
+  div {
+    color: #001effe9;
+  }
+  
 body {
   background-color: rgb(235, 156, 199);
 }

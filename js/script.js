@@ -11,8 +11,8 @@
 */
 function calculate () {
  // input
- const sidea = parseInt(document.getElementById('side-a').value)
- const sideb = parseInt(document.getElementById('side-b').value)
+  const sidea = parseInt(document.getElementById('side-a').value)
+  const sideb = parseInt(document.getElementById('side-b').value)
 
 
  // process
@@ -20,7 +20,7 @@ function calculate () {
 
 
  // output
- document.getElementById('area').innerHTML = 'Area is: ' + area + ' cm²'
+  document.getElementById('area').innerHTML = 'Area is: ' + area + ' cm²'
 }
 
 
