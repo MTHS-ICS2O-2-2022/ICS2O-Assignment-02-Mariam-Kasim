@@ -30,29 +30,30 @@
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
-  p {
-    color: #4800ff;}
 
-  h2 {
-    color: #009dffe9;
-    font-size: 2rem;
-    font-weight: 400;
-    margin: 0;
-    padding: 0;
-  }
-  
-  h3 {
-    color: #009dffe9;
-    font-size: 1.5rem;
-    font-weight: 400;
-    margin: 0;
-    padding: 0;
-  }
+p {
+  color: #4800ff;}
 
-  div {
-    color: #001effe9;
-  }
-  
+h2 {
+  color: #009dffe9;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  color: #009dffe9;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  color: #001effe9;
+}
+
 body {
   background-color: rgb(235, 156, 199);
 }
