@@ -32,7 +32,8 @@
 }
 
 p {
-  color: #4800ff;}
+  color: #4800ff;
+}
 
 h2 {
   color: #009dffe9;
@@ -55,7 +56,7 @@ div {
 }
 
 body {
-  background-color: rgb(235, 156, 199);
+  background-color: rgb(235 156 199);
 }
 
 img {
